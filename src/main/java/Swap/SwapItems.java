@@ -30,5 +30,4 @@ public class SwapItems<N extends Number> {
             System.out.print("[" + n + "]");
         }
     }
-
 }
