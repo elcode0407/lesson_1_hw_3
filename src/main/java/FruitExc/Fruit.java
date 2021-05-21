@@ -1,5 +1,6 @@
 package FruitExc;
 
+
 public abstract class Fruit{
     protected float weight;
 
